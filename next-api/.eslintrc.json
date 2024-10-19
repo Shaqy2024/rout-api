@@ -1,0 +1,3 @@
+{
+  "extends": ["next/babale/next/core-web-vitals"]
+}
